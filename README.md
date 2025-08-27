@@ -11,30 +11,17 @@ Evitar repeticiones o asignaciones inválidas (ejemplo: que alguien se tenga a s
 
 Permitir una experiencia sencilla, rápida y justa para todos los participantes.
 
-
-⚙️ Funcionalidades
-
-Registro de participantes.
-
 Sorteo automático y aleatorio.
 
 Visualización o envío privado de quién es el amigo secreto de cada persona.
 
 Opción de personalizar reglas (ejemplo: excluir a ciertos pares de participantes si se desea).
 
-🌐 Posibles aplicaciones
-
-Reuniones familiares o de amigos.
-
-Eventos empresariales.
-
-Actividades escolares o universitarias.</P>
-
 <h4 align="center">
 :construction: Proyecto en construcción :construction:
 </h4>
 ## :hammer:Funcionalidades del proyecto
-- `Funcionalidad 1`: descripción de la funcionalidad 1- `Funcionalidad 2`: descripción de la funcionalidad 2- `Funcionalidad 2a`: descripción de la fucionalidad 2a`
+- `1era funcionalidad.`: ingreso de nombre con el que participa en el juego - - `Funcionalidad 2a`:  `Visualización o envío privado de quién es el amigo secreto de cada persona.`- `Funcionalidad 3ra`: Opción de personalizar reglas (ejemplo: excluir a ciertos pares de participantes si se desea).`
 
 ## Autor
 | [<img src="https://media.licdn.com/dms/image/v2/C5603AQFc1F--sDD7wg/profile-displayphoto-shrink_200_200/profile-displayphoto-shrink_200_200/0/1581469488383?e=2147483647&v=beta&t=UtZ6dWyiEsYF5hLckucrogQBM3SyTkygS_NpCO9p24E" width=115><br><sub>Sergio Fierro</sub>](https://github.com/camilafernanda) | 
