@@ -2,37 +2,31 @@
 
 //Desarrolla una función, que permita al usuario ingresar un nombre en el campo de texto 
 //y añadirlo a la lista de amigos creada anteriormente.
+let amigos = [];
 
-let amigos = []
-
-function agregarAmigo(Elemento, texto) {
-    let nombre = String(document.getElementById('amigo').value);
-    
+function agregarAmigo(){
+    let nombre = document.getElementById('amigo').value;
     console.log(nombre);
 
     if (nombre == ''){
-
-alert("Por favor, inserte un nombre.")
-        return;
+        alert('Por favor, inserte un nombre.');
+    }
+        else {
+            amigos.push(nombre); 
+            console.log(amigos);
+      
+      
+        }
+        limpiarCaja();
+return;
+function limpiarCaja() {
+    let valorCaja = document.getElementById("amigo");
+    valorCaja.value = "";
+    
 }
-function mostrarLista() {
-    let lista = document.querySelector("# listaAmigos");
-    lista.innerHTML = "";
-
 
 }
-    amigos.push(nombre);
-    
-    console.log(amigos);
-
-    
 
 
-
- 
- 
- };
-    
-    
 
 
